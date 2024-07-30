@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alassane diop</h1>
-<h3 align="center">I am a developer currently specializing in cybersecurity, determined to safeguard systems and data against digital threats. With a strong background in computer science, I focus on in-depth study of network security, cryptography, and intrusion testing. Always staying updated on the latest cybersecurity trends, I actively engage in training activities to remain at the forefront of the field.</h3>
+<h3 align="center">01- Talent software engineering | DevOps Enthusiast | Full Stack | Go 🔵 | JS 🟡 | Rust 🟠 | Java 🟢.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayerane&label=Profile%20views&color=0e75b6&style=flat" alt="bayerane" /> </p>
 
